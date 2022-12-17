@@ -1,0 +1,15 @@
+/Users/phantrungnghi/Projects/C2109I2CSharp/QQQuestion/Question/bin/Debug/net7.0/Question
+/Users/phantrungnghi/Projects/C2109I2CSharp/QQQuestion/Question/bin/Debug/net7.0/Question.deps.json
+/Users/phantrungnghi/Projects/C2109I2CSharp/QQQuestion/Question/bin/Debug/net7.0/Question.runtimeconfig.json
+/Users/phantrungnghi/Projects/C2109I2CSharp/QQQuestion/Question/bin/Debug/net7.0/Question.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/QQQuestion/Question/bin/Debug/net7.0/Question.pdb
+/Users/phantrungnghi/Projects/C2109I2CSharp/QQQuestion/Question/obj/Debug/net7.0/Question.csproj.AssemblyReference.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/QQQuestion/Question/obj/Debug/net7.0/Question.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phantrungnghi/Projects/C2109I2CSharp/QQQuestion/Question/obj/Debug/net7.0/Question.AssemblyInfoInputs.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/QQQuestion/Question/obj/Debug/net7.0/Question.AssemblyInfo.cs
+/Users/phantrungnghi/Projects/C2109I2CSharp/QQQuestion/Question/obj/Debug/net7.0/Question.csproj.CoreCompileInputs.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/QQQuestion/Question/obj/Debug/net7.0/Question.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/QQQuestion/Question/obj/Debug/net7.0/refint/Question.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/QQQuestion/Question/obj/Debug/net7.0/Question.pdb
+/Users/phantrungnghi/Projects/C2109I2CSharp/QQQuestion/Question/obj/Debug/net7.0/Question.genruntimeconfig.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/QQQuestion/Question/obj/Debug/net7.0/ref/Question.dll
