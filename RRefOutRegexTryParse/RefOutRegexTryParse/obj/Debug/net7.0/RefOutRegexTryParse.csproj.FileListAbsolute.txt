@@ -1,0 +1,15 @@
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/RefOutRegexTryParse/bin/Debug/net7.0/RefOutRegexTryParse
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/RefOutRegexTryParse/bin/Debug/net7.0/RefOutRegexTryParse.deps.json
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/RefOutRegexTryParse/bin/Debug/net7.0/RefOutRegexTryParse.runtimeconfig.json
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/RefOutRegexTryParse/bin/Debug/net7.0/RefOutRegexTryParse.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/RefOutRegexTryParse/bin/Debug/net7.0/RefOutRegexTryParse.pdb
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/RefOutRegexTryParse/obj/Debug/net7.0/RefOutRegexTryParse.csproj.AssemblyReference.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/RefOutRegexTryParse/obj/Debug/net7.0/RefOutRegexTryParse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/RefOutRegexTryParse/obj/Debug/net7.0/RefOutRegexTryParse.AssemblyInfoInputs.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/RefOutRegexTryParse/obj/Debug/net7.0/RefOutRegexTryParse.AssemblyInfo.cs
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/RefOutRegexTryParse/obj/Debug/net7.0/RefOutRegexTryParse.csproj.CoreCompileInputs.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/RefOutRegexTryParse/obj/Debug/net7.0/RefOutRegexTryParse.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/RefOutRegexTryParse/obj/Debug/net7.0/refint/RefOutRegexTryParse.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/RefOutRegexTryParse/obj/Debug/net7.0/RefOutRegexTryParse.pdb
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/RefOutRegexTryParse/obj/Debug/net7.0/RefOutRegexTryParse.genruntimeconfig.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/RefOutRegexTryParse/obj/Debug/net7.0/ref/RefOutRegexTryParse.dll
