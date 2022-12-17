@@ -1,4 +1,14 @@
 ﻿<Properties StartupConfiguration="{385827D4-E789-46F8-B843-04539C4B1221}|Default">
-  <MonoDevelop.Ide.ItemProperties.SwitchForWhile FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SwitchForWhile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwitchForWhile/Program.cs">
+    <Files>
+      <File FileName="SwitchForWhile/Program.cs" Line="71" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>

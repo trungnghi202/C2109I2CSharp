@@ -1,0 +1,15 @@
+/Users/phantrungnghi/Projects/C2109I2CSharp/SwitchForWhile/SwitchForWhile/bin/Debug/net7.0/SwitchForWhile
+/Users/phantrungnghi/Projects/C2109I2CSharp/SwitchForWhile/SwitchForWhile/bin/Debug/net7.0/SwitchForWhile.deps.json
+/Users/phantrungnghi/Projects/C2109I2CSharp/SwitchForWhile/SwitchForWhile/bin/Debug/net7.0/SwitchForWhile.runtimeconfig.json
+/Users/phantrungnghi/Projects/C2109I2CSharp/SwitchForWhile/SwitchForWhile/bin/Debug/net7.0/SwitchForWhile.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/SwitchForWhile/SwitchForWhile/bin/Debug/net7.0/SwitchForWhile.pdb
+/Users/phantrungnghi/Projects/C2109I2CSharp/SwitchForWhile/SwitchForWhile/obj/Debug/net7.0/SwitchForWhile.csproj.AssemblyReference.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/SwitchForWhile/SwitchForWhile/obj/Debug/net7.0/SwitchForWhile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phantrungnghi/Projects/C2109I2CSharp/SwitchForWhile/SwitchForWhile/obj/Debug/net7.0/SwitchForWhile.AssemblyInfoInputs.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/SwitchForWhile/SwitchForWhile/obj/Debug/net7.0/SwitchForWhile.AssemblyInfo.cs
+/Users/phantrungnghi/Projects/C2109I2CSharp/SwitchForWhile/SwitchForWhile/obj/Debug/net7.0/SwitchForWhile.csproj.CoreCompileInputs.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/SwitchForWhile/SwitchForWhile/obj/Debug/net7.0/SwitchForWhile.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/SwitchForWhile/SwitchForWhile/obj/Debug/net7.0/refint/SwitchForWhile.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/SwitchForWhile/SwitchForWhile/obj/Debug/net7.0/SwitchForWhile.pdb
+/Users/phantrungnghi/Projects/C2109I2CSharp/SwitchForWhile/SwitchForWhile/obj/Debug/net7.0/SwitchForWhile.genruntimeconfig.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/SwitchForWhile/SwitchForWhile/obj/Debug/net7.0/ref/SwitchForWhile.dll
