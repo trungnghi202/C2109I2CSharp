@@ -1,0 +1,15 @@
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ExtentionMethod/obj/Debug/net7.0/ExtentionMethod.csproj.AssemblyReference.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ExtentionMethod/obj/Debug/net7.0/ExtentionMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ExtentionMethod/obj/Debug/net7.0/ExtentionMethod.AssemblyInfoInputs.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ExtentionMethod/obj/Debug/net7.0/ExtentionMethod.AssemblyInfo.cs
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ExtentionMethod/obj/Debug/net7.0/ExtentionMethod.csproj.CoreCompileInputs.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ExtentionMethod/bin/Debug/net7.0/ExtentionMethod
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ExtentionMethod/bin/Debug/net7.0/ExtentionMethod.deps.json
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ExtentionMethod/bin/Debug/net7.0/ExtentionMethod.runtimeconfig.json
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ExtentionMethod/bin/Debug/net7.0/ExtentionMethod.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ExtentionMethod/bin/Debug/net7.0/ExtentionMethod.pdb
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ExtentionMethod/obj/Debug/net7.0/ExtentionMethod.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ExtentionMethod/obj/Debug/net7.0/refint/ExtentionMethod.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ExtentionMethod/obj/Debug/net7.0/ExtentionMethod.pdb
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ExtentionMethod/obj/Debug/net7.0/ExtentionMethod.genruntimeconfig.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ExtentionMethod/obj/Debug/net7.0/ref/ExtentionMethod.dll

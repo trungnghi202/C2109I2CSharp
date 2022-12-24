@@ -1,4 +1,11 @@
-﻿<Properties StartupConfiguration="{90337CD4-E5E5-4158-978E-6673B6AA73F1}|Default">
+﻿<Properties StartupConfiguration="{D43DF536-4E7F-46EE-8433-9EE91FF5E3C3}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ExtentionMethod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RefOutRegexTryParse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.ListAndLinq FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="RefOutRegexTryParse/RegexTryParse.cs">
     <Files>
       <File FileName="RefOutRegexTryParse/Program.cs" />
@@ -6,21 +13,5 @@
       <File FileName="RefOutRegexTryParse/RegexTryParse.cs" Line="57" Column="1" />
       <File FileName="RefOutRegexTryParse/HuManCont.cs" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="RRefOutRegexTryParse" expanded="True" selected="True">
-            <Node name="RefOutRegexTryParse" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.RefOutRegexTryParse PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

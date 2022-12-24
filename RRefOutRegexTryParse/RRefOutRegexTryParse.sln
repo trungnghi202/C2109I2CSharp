@@ -5,6 +5,10 @@ VisualStudioVersion = 25.0.1704.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOutRegexTryParse", "RefOutRegexTryParse\RefOutRegexTryParse.csproj", "{90337CD4-E5E5-4158-978E-6673B6AA73F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtentionMethod", "ExtentionMethod\ExtentionMethod.csproj", "{D43DF536-4E7F-46EE-8433-9EE91FF5E3C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListAndLinq", "ListAndLinq\ListAndLinq.csproj", "{8E1462F2-6D9C-47A2-8004-BCEC5AC4EFE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{90337CD4-E5E5-4158-978E-6673B6AA73F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90337CD4-E5E5-4158-978E-6673B6AA73F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90337CD4-E5E5-4158-978E-6673B6AA73F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43DF536-4E7F-46EE-8433-9EE91FF5E3C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43DF536-4E7F-46EE-8433-9EE91FF5E3C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43DF536-4E7F-46EE-8433-9EE91FF5E3C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43DF536-4E7F-46EE-8433-9EE91FF5E3C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1462F2-6D9C-47A2-8004-BCEC5AC4EFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1462F2-6D9C-47A2-8004-BCEC5AC4EFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1462F2-6D9C-47A2-8004-BCEC5AC4EFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1462F2-6D9C-47A2-8004-BCEC5AC4EFE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

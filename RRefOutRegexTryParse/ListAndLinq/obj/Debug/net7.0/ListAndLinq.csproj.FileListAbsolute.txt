@@ -1,0 +1,15 @@
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ListAndLinq/obj/Debug/net7.0/ListAndLinq.csproj.AssemblyReference.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ListAndLinq/obj/Debug/net7.0/ListAndLinq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ListAndLinq/obj/Debug/net7.0/ListAndLinq.AssemblyInfoInputs.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ListAndLinq/obj/Debug/net7.0/ListAndLinq.AssemblyInfo.cs
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ListAndLinq/obj/Debug/net7.0/ListAndLinq.csproj.CoreCompileInputs.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ListAndLinq/bin/Debug/net7.0/ListAndLinq
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ListAndLinq/bin/Debug/net7.0/ListAndLinq.deps.json
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ListAndLinq/bin/Debug/net7.0/ListAndLinq.runtimeconfig.json
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ListAndLinq/bin/Debug/net7.0/ListAndLinq.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ListAndLinq/bin/Debug/net7.0/ListAndLinq.pdb
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ListAndLinq/obj/Debug/net7.0/ListAndLinq.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ListAndLinq/obj/Debug/net7.0/refint/ListAndLinq.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ListAndLinq/obj/Debug/net7.0/ListAndLinq.pdb
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ListAndLinq/obj/Debug/net7.0/ListAndLinq.genruntimeconfig.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/ListAndLinq/obj/Debug/net7.0/ref/ListAndLinq.dll
