@@ -1,0 +1,15 @@
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/OopExercise/bin/Debug/net7.0/OopExercise
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/OopExercise/bin/Debug/net7.0/OopExercise.deps.json
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/OopExercise/bin/Debug/net7.0/OopExercise.runtimeconfig.json
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/OopExercise/bin/Debug/net7.0/OopExercise.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/OopExercise/bin/Debug/net7.0/OopExercise.pdb
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/OopExercise/obj/Debug/net7.0/OopExercise.csproj.AssemblyReference.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/OopExercise/obj/Debug/net7.0/OopExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/OopExercise/obj/Debug/net7.0/OopExercise.AssemblyInfoInputs.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/OopExercise/obj/Debug/net7.0/OopExercise.AssemblyInfo.cs
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/OopExercise/obj/Debug/net7.0/OopExercise.csproj.CoreCompileInputs.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/OopExercise/obj/Debug/net7.0/OopExercise.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/OopExercise/obj/Debug/net7.0/refint/OopExercise.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/OopExercise/obj/Debug/net7.0/OopExercise.pdb
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/OopExercise/obj/Debug/net7.0/OopExercise.genruntimeconfig.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/OopExercise/obj/Debug/net7.0/ref/OopExercise.dll

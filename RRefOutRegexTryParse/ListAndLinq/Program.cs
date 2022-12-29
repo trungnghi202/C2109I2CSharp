@@ -1,4 +1,5 @@
-﻿using ListAndLinq;
+﻿using System.Collections.Generic;
+using ListAndLinq;
 
 List<Student> student = new()
 {
@@ -71,4 +72,88 @@ List<Student> student = new()
 //    Console.WriteLine(i);
 //}
 //kết hợp s foreach của list
-student.Where(stu => stu.Id > 2).ToList().ForEach(Console.WriteLine);
+//student.Where(stu => stu.Id > 2).ToList().ForEach(Console.WriteLine);
+
+//var t = from stu in student
+//        select stu;
+//IEnumerable<Student> i = from stu in student
+//                         select stu;
+
+//// với linq to object
+//// khi sử dụng query  syntax hay method syntax thì trả về không phải là list, hay array =>  IEnumerable (con của IEnumarator duyệt qua collection: list, array, dictionary, hashmap...)
+//// dùng để duyệt  qua linq to object.
+
+//student.ForEach(Console.WriteLine);
+
+//foreach(var abc in t)
+//{
+//    Console.WriteLine(abc);
+//}
+
+//t.ToList().ForEach(Console.WriteLine);
+//
+//foreach(var stu in student)
+//{
+//    if (stu.Id > 2)
+//    {
+//        Console.WriteLine(stu);
+//    }
+//}
+
+////=phuong thuc co san tu list(ap dung lambda)
+//student.ForEach(
+//    stu =>
+//    {
+//        if(stu.Id > 2)
+//        {
+//            Console.WriteLine(stu);
+//        }
+//    }
+//    );
+
+//// linq method syntax
+
+//student.Where(stu => stu.Id > 2).ToList().ForEach(Console.WriteLine);
+
+////query syntax
+//var t = from stu in student
+//        where stu.Id > 2
+//        select stu;
+//t.ToList().ForEach(Console.WriteLine);
+
+
+//lấy thuộc tính từ sinh viên như câu select lấy các cột
+
+var te = from stu in student
+         where stu.Id > 2
+         select new
+         {
+             InFo = $"{stu.Id} : {stu.Name1}",
+             Birthday = stu.Dob,
+        };
+
+te.ToList().ForEach(i => Console.WriteLine(i.Birthday));
+
+
+// method syntax
+student.Where(stu => stu.Id > 2).Select(stu => new
+{
+    InFo = $"{stu.Id} : {stu.Name1}",
+    Birthday = stu.Dob,
+}
+).ToList().ForEach(Console.WriteLine);
+
+//sap xep tang dan
+student.Where(stu => stu.Id >2)
+    .OrderBy(stu => stu.Id)
+    .ThenBy(stu => stu.Name1)
+    .ToList()
+    .ForEach(Console.WriteLine);
+//giam dan
+student.Where(stu => stu.Id > 2)
+    .OrderByDescending(stu => stu.Id)
+    .ThenByDescending(stu => stu.Name1)
+    .ToList()
+    .ForEach(Console.WriteLine);
+
+

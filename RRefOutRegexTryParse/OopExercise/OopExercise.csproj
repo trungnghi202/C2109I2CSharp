@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Entity\" />
+    <None Remove="Helper\" />
+    <None Remove="Dal\" />
+    <None Remove="Service\" />
+    <None Remove="Menu\" />
+    <None Remove="ExtentionMethod\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entity\" />
+    <Folder Include="Helper\" />
+    <Folder Include="Dal\" />
+    <Folder Include="Service\" />
+    <Folder Include="Menu\" />
+    <Folder Include="ExtentionMethod\" />
+  </ItemGroup>
+</Project>

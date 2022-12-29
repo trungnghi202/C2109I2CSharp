@@ -1,17 +1,20 @@
-﻿<Properties StartupConfiguration="{D43DF536-4E7F-46EE-8433-9EE91FF5E3C3}|Default">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.ExtentionMethod PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{5687FD26-1785-4039-85DF-462CA9304E25}|Default">
+  <MonoDevelop.Ide.ItemProperties.OopExercise FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.RefOutRegexTryParse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GenericClass FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ListAndLinq PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ExtentionMethod PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.ListAndLinq FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RefOutRegexTryParse/RegexTryParse.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListAndLinq/Program.cs">
     <Files>
-      <File FileName="RefOutRegexTryParse/Program.cs" />
-      <File FileName="RefOutRegexTryParse/RefOut.cs" />
-      <File FileName="RefOutRegexTryParse/RegexTryParse.cs" Line="57" Column="1" />
-      <File FileName="RefOutRegexTryParse/HuManCont.cs" />
+      <File FileName="GenericClass/Program.cs" />
+      <File FileName="GenericClass/ClassT.cs" />
+      <File FileName="GenericClass/ClassUV.cs" />
+      <File FileName="ListAndLinq/Student.cs" />
+      <File FileName="ListAndLinq/Program.cs" Line="153" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

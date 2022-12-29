@@ -1,0 +1,15 @@
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/GenericClass/bin/Debug/net7.0/GenericClass
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/GenericClass/bin/Debug/net7.0/GenericClass.deps.json
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/GenericClass/bin/Debug/net7.0/GenericClass.runtimeconfig.json
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/GenericClass/bin/Debug/net7.0/GenericClass.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/GenericClass/bin/Debug/net7.0/GenericClass.pdb
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/GenericClass/obj/Debug/net7.0/GenericClass.csproj.AssemblyReference.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/GenericClass/obj/Debug/net7.0/GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/GenericClass/obj/Debug/net7.0/GenericClass.AssemblyInfoInputs.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/GenericClass/obj/Debug/net7.0/GenericClass.AssemblyInfo.cs
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/GenericClass/obj/Debug/net7.0/GenericClass.csproj.CoreCompileInputs.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/GenericClass/obj/Debug/net7.0/GenericClass.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/GenericClass/obj/Debug/net7.0/refint/GenericClass.dll
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/GenericClass/obj/Debug/net7.0/GenericClass.pdb
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/GenericClass/obj/Debug/net7.0/GenericClass.genruntimeconfig.cache
+/Users/phantrungnghi/Projects/C2109I2CSharp/RRefOutRegexTryParse/GenericClass/obj/Debug/net7.0/ref/GenericClass.dll
